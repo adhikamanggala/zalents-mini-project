@@ -1,0 +1,32 @@
+.home {
+    display: flex;
+    align-items: stretch;
+}
+.sidebar {
+    width: 68px;
+    min-height: 100vh;
+    background-color: #2F3136;
+    text-align: center;
+}
+
+.sidebar img {
+    object-fit: contain;
+    height: 33px;
+    margin: 20px 10.56px 0 11px;
+}
+
+.kanban-board {
+    padding: 20px 50px
+}
+
+.kanban-board .page-title {
+    margin-top: 0;
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.kanban-board .card-row {
+   display: flex;
+   flex-direction: row;
+}

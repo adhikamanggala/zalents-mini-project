@@ -1,0 +1,40 @@
+.group-task {
+    width: 306px;
+    height: 184px;
+    border-radius: 4px;
+    background-color: #FFF9FB;
+    border: #EB2F96 solid 1px;
+    padding: 12px 12px 13.86px;
+    margin-top: 24px;
+    margin-right: 16px;
+}
+
+.group-task .group-title-box {
+    width: 86px;
+    height: 22px;
+    background-color: #FFF0F6;
+    border: #FFADD2 solid 1px;
+    border-radius: 2px;
+    margin-bottom: 5px;
+}
+
+.group-task .group-title-box .group-title-text {
+    font-family: 'Rubik';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 0;
+    color: #EB2F96;
+}
+
+.month {
+    font-family: 'Rubik';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+}
